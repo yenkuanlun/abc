@@ -3,7 +3,7 @@ import glob
 from datetime import datetime
 import os
 
-app = Flask("Elwing")
+app = Flask("Mason yennnn")
 
 @app.route("/category/<c>")
 def category(c):
